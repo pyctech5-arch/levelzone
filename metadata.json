@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Ascension",
+  "description": "An immersive dark fantasy habit-tracking RPG set in the original Nexus universe. Complete daily quests, level up, summon Echo Guardians, and expand your soul attributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
